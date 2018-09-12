@@ -1,6 +1,7 @@
 package com.example.sena.prueba;
 
 public class Otro {
-
-    private String nombre;
+    public void hola(){
+        System.out.println("holas");
+    }
 }
